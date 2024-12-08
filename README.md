@@ -4,6 +4,7 @@ This project is part of the AAI-501 course in the [Applied Artificial Intelligen
 
 Key objectives:
 Sentiment Analysis: The system will classify review text into positive, negative, or neutral sentiment categories, providing insights into patient experiences with each drug.
+Theme identification via clustering
 
 
 ## Installation
