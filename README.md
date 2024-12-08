@@ -1,6 +1,6 @@
 # Drug Reviews Roject
 
-This project is part of the AAI-500 course in the [Applied Artificial Intelligence Program](https://onlinedegrees.sandiego.edu/masters-applied-artificial-intelligence/) at the University of San Diego (USD).
+This project is part of the AAI-501 course in the [Applied Artificial Intelligence Program](https://onlinedegrees.sandiego.edu/masters-applied-artificial-intelligence/) at the University of San Diego (USD).
 
 Key objectives:
 Sentiment Analysis: The system will classify review text into positive, negative, or neutral sentiment categories, providing insights into patient experiences with each drug.
